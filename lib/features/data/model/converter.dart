@@ -1,6 +1,6 @@
 import 'package:demo_exam/features/data/model/event_model.dart';
 
-import '../json/datas.dart';
+import '../datas/datas.dart';
 
 List<EventC> eventList = events.map(
   (eventData) {
